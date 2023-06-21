@@ -1,0 +1,8 @@
+mutable vs immutable
+-------------------------
+mutable : its change
+immutable : its not change(if its change,new object will create)
+Note:
+fundamental data types are all immutable(int,float,boolean,complex,string)
+tuple,frozenset,range,bytes are immutable
+list,set,dict(value only mutable,key are immutable),bytearray these are mutable
